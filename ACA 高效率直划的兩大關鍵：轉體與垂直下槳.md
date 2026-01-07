@@ -1,4 +1,4 @@
-[# ACA 強調的前進槳法重點：轉體 + 垂直槳路，怎麼做才算真正搞懂？
+# ACA 強調的前進槳法重點：轉體 + 垂直槳路，怎麼做才算真正搞懂？
 
 ACA 在進階教學裡一再強調前進槳法（Forward Stroke）最重要的兩個元素：**轉體（body rotation）** 和 **垂直槳路（vertical stroke path）**。但老實說，這兩個看似簡單的概念，實際上是最容易搞混的。
 
@@ -80,4 +80,4 @@ ACA 在進階教學裡一再強調前進槳法（Forward Stroke）最重要的�
 
 
 
-](https://github.com/PPyxlty/ACA/blob/9dea99bc6e7eb159736283d2d387155fe89291dd/ACA%20%E9%AB%98%E6%95%88%E7%8E%87%E7%9B%B4%E5%88%92%E7%9A%84%E5%85%A9%E5%A4%A7%E9%97%9C%E9%8D%B5%EF%BC%9A%E8%BD%89%E9%AB%94%E8%88%87%E5%9E%82%E7%9B%B4%E4%B8%8B%E6%A7%B3.md)
+(https://github.com/PPyxlty/ACA/blob/9dea99bc6e7eb159736283d2d387155fe89291dd/ACA%20%E9%AB%98%E6%95%88%E7%8E%87%E7%9B%B4%E5%88%92%E7%9A%84%E5%85%A9%E5%A4%A7%E9%97%9C%E9%8D%B5%EF%BC%9A%E8%BD%89%E9%AB%94%E8%88%87%E5%9E%82%E7%9B%B4%E4%B8%8B%E6%A7%B3.md)
