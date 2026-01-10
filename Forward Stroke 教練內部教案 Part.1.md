@@ -12,7 +12,7 @@
 而忽略骨盆與核心在動力鏈中的主導角色。
 Paddler’s Box 應被視為：
 「骨盆與核心運作正確後，自然出現的結果形狀」，
-而非動作起點。課程通常會安排在 Posture、Fitting 課程之後
+而非動作起點。Forward Stroke 課程通常會安排在 Posture、Fitting 課程之後
 
 ---
 
