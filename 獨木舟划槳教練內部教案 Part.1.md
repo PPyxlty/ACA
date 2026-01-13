@@ -1,4 +1,4 @@
-# Forward Stroke 教練內部教案 Part.1
+# 獨木舟划槳教練內部教案 Part.1
 
 ## 使用說明（重要）
 
